@@ -79,6 +79,18 @@ Now Volar will takeover TS server.
 
 For further customizations please checkout [Lazyvim Docs](https://www.lazyvim.org)
 
+### Screenshots
+
+[![1.png](https://i.postimg.cc/wxm7SpPs/1.png)](https://postimg.cc/4nXf9rXJ)
+
+[![2.png](https://i.postimg.cc/3xKN4Dwg/2.png)](https://postimg.cc/hf5cNvTj)
+
+[![3.png](https://i.postimg.cc/zvKvWCWk/3.png)](https://postimg.cc/646BxGM7)
+
+[![4.png](https://i.postimg.cc/YqNjCxtr/4.png)](https://postimg.cc/dL1JWr7p)
+
+[![5.png](https://i.postimg.cc/yYCkKG4p/5.png)](https://postimg.cc/vDXQL3m5)
+
 ### Contribution
 
 Any improvements to the setup is welcome via PR
