@@ -6,7 +6,9 @@ Minimal config for `nvim` based on [Lazyvim](https://www.lazyvim.org).
 
 Besides Lazyvim plugins it adds support for:
 
-- Neoconf `workaround to enable volar only for vue projects thaks to @Theo-Steiner [article guide](https://theosteiner.de/using-volars-takeover-mode-in-neovims-native-lsp-client)`
+`Workaround to enable volar only for vue projects thaks to` @Theo-Steiner `[article guide](https://theosteiner.de/using-volars-takeover-mode-in-neovims-native-lsp-client)`
+
+- Neoconf
 - Typescript
 - Eslint
 - Prettier
@@ -16,7 +18,7 @@ Besides Lazyvim plugins it adds support for:
 - Ngnix
 - Docker
 - Docker Compose
-- Tokyonight Theme
+- Poimandres Theme
 
 TODO: Add support for
 
@@ -81,15 +83,11 @@ For further customizations please checkout [Lazyvim Docs](https://www.lazyvim.or
 
 ### Screenshots
 
-[![1.png](https://i.postimg.cc/wxm7SpPs/1.png)](https://postimg.cc/4nXf9rXJ)
-
-[![2.png](https://i.postimg.cc/3xKN4Dwg/2.png)](https://postimg.cc/hf5cNvTj)
-
-[![3.png](https://i.postimg.cc/zvKvWCWk/3.png)](https://postimg.cc/646BxGM7)
-
-[![4.png](https://i.postimg.cc/YqNjCxtr/4.png)](https://postimg.cc/dL1JWr7p)
-
-[![5.png](https://i.postimg.cc/yYCkKG4p/5.png)](https://postimg.cc/vDXQL3m5)
+[![Dashboard.png](https://i.postimg.cc/xTw0RwZz/Dashboard.png)](https://postimg.cc/LnVK4b29)
+[![Autocomplete.png](https://i.postimg.cc/63pwqt8D/Autocomplete.png)](https://postimg.cc/R3y2brQR)
+[![Linting.png](https://i.postimg.cc/tgy90hpR/Linting.png)](https://postimg.cc/G4MWGT46)
+[![Linting-Inside-Vue-files.png](https://i.postimg.cc/vHgY5Y0y/Linting-Inside-Vue-files.png)](https://postimg.cc/XpW6bbM1)
+[![Syntax-highlighting-for-Vue-SFC.png](https://i.postimg.cc/jSyRk8Vk/Syntax-highlighting-for-Vue-SFC.png)](https://postimg.cc/bZNXZ9wQ)
 
 ### Contribution
 
