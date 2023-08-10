@@ -1,18 +1,12 @@
 return {
   {
-    "olivercederborg/poimandres.nvim",
-    config = function()
-      require("poimandres").setup({
-        disable_background = true,
-        disable_float_background = true,
-        disable_italics = true,
-      })
-    end,
+    "ntk148v/habamax.nvim",
+    dependencies = { "rktjmp/lush.nvim" },
   },
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "poimandres",
+      colorscheme = "habamax",
     },
   },
 }
