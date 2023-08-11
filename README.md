@@ -6,9 +6,6 @@ Minimal config for `nvim` based on [Lazyvim](https://www.lazyvim.org).
 
 Besides Lazyvim plugins it adds support for:
 
-`Workaround to enable volar only for vue projects thaks to` @Theo-Steiner `[article guide](https://theosteiner.de/using-volars-takeover-mode-in-neovims-native-lsp-client)`
-
-- Neoconf
 - Typescript
 - Eslint
 - Prettier
@@ -22,10 +19,10 @@ Besides Lazyvim plugins it adds support for:
 
 TODO: Add support for
 
-- Svelte
-- Go
-- PHP
-- Python
+[] Svelte
+[] Go
+[] PHP
+[] Python
 
 ## System Requirements
 
@@ -66,20 +63,6 @@ git clone https://github.com/samk-dev/neovim-config ~/.config/nvim
 # Start Neovim
 nvim
 ```
-
-### Enable/Disable Volar takeover
-
-in your Vue/Nuxt project where you need Volar create new file `.neoconf.json` at the root of your Vue/Nuxt project
-
-```json
-{
-  "tsserver": { "disable": true }
-}
-```
-
-Now Volar will takeover TS server.
-
-For further customizations please checkout [Lazyvim Docs](https://www.lazyvim.org)
 
 ### Screenshots
 
